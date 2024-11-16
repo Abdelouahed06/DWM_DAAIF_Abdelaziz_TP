@@ -12,6 +12,10 @@ Ce projet est une application web responsive utilisant **Bootstrap 5**. Il prés
 - **Carte Google Maps** : Intégration d'une carte pour montrer l'emplacement.
 - **Footer personnalisé** : Inclut le copyright et un lien vers le profil GitHub.
 
+## Démo en ligne
+
+Vous pouvez voir une **démo en ligne** du projet ici : [Lien vers la démo](https://abdelouahed06.github.io/DWM_DAAIF_Abdelaziz_TP/)
+
 ## Technologies utilisées
 
 - **HTML5** : Structure de la page.
